@@ -2,4 +2,7 @@
     <string name="app_name">Tiffin Delivery App</string>
     <string name="namaste">Namaste!</string>
     <string name="Login_image">login Page Image</string>
+    <string name="_91">"          +91"</string>
+    <string name="India_flag">India Flag</string>
+    <string name="get_otp">Get OTP</string>
 </resources>
